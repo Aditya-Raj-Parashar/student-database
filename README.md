@@ -20,8 +20,8 @@ Before running this application, make sure you have:
 ## Installation
 
 1. **Clone the repository**
-   ```bash
-   yet to be added
+   ```bash https://github.com/Aditya-Raj-Parashar/student-database.git
+      cd student-database
    ```
 
 2. **Create a virtual environment**
