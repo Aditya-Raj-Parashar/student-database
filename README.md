@@ -113,7 +113,7 @@ After submission, the data is stored in the SQL Server database and a success me
 ## File Structure
 
 ```
-student-form-app/
+student-database/
 │
 ├── app.py              # Main Flask application
 ├── connection.py       # Database connection test
@@ -166,8 +166,7 @@ app.run(host='0.0.0.0', port=5000, debug=True)
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
-
+This project is open source .
 ## Support
 
 If you encounter any issues or have questions, please:
